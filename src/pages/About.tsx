@@ -16,7 +16,7 @@ const About: React.FC = () => {
       <section className="pt-32 pb-16 md:pt-40 md:pb-20 bg-gray-50">
         <div className="container">
           <div className="max-w-3xl mx-auto text-center">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6">About HeartMatch</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6">About Kismet</h1>
             <p className="text-lg text-gray-600 mb-8">
               We're dedicated to creating meaningful connections that lead to lasting relationships.
             </p>
@@ -31,7 +31,7 @@ const About: React.FC = () => {
             <div>
               <h2 className="text-3xl font-bold mb-6">Our Story</h2>
               <p className="text-gray-600 mb-4">
-                HeartMatch was founded in 2015 with a simple mission: to help people find love that lasts. 
+                Kismet was founded in 2015 with a simple mission: to help people find love that lasts. 
                 Our founder, Elizabeth Chen, had worked as a relationship therapist for over a decade and 
                 saw firsthand how many people struggled to find compatible partners despite their best efforts.
               </p>
@@ -42,14 +42,14 @@ const About: React.FC = () => {
                 matchmakers and relationship experts.
               </p>
               <p className="text-gray-600">
-                Today, HeartMatch has helped thousands of couples find meaningful connections, with over 
+                Today, Kismet has helped thousands of couples find meaningful connections, with over 
                 800 marriages and countless long-term relationships to our credit.
               </p>
             </div>
             <div className="relative">
               <img 
                 src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" 
-                alt="HeartMatch Team" 
+                alt="Kismet Team" 
                 className="rounded-xl shadow-lg"
               />
               <div className="absolute -bottom-6 -left-6 bg-love-50 border border-love-100 rounded-lg p-4 shadow-sm">
@@ -69,7 +69,7 @@ const About: React.FC = () => {
           <div className="max-w-3xl mx-auto text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Our Values</h2>
             <p className="text-gray-600">
-              At HeartMatch, everything we do is guided by these core principles
+              At Kismet, everything we do is guided by these core principles
             </p>
           </div>
           

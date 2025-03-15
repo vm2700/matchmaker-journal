@@ -240,7 +240,7 @@ const Index: React.FC = () => {
                 
                 <blockquote className="italic text-gray-600 mb-4">
                   "After several disappointing dating experiences, I was skeptical about matchmaking. 
-                  But HeartMatch truly understood what I was looking for in a partner. They introduced 
+                  But Kismet truly understood what I was looking for in a partner. They introduced 
                   me to Michael, and we connected instantly over our shared values and interests. 
                   We've been married for two years now and couldn't be happier!"
                 </blockquote>

@@ -37,7 +37,7 @@ const Navbar: React.FC = () => {
           to="/" 
           className="text-2xl font-serif font-semibold text-love-600 hover:text-love-700 transition-colors"
         >
-          Heart<span className="text-gray-800">Match</span>
+          Kis<span className="text-gray-800">met</span>
         </Link>
 
         {/* Desktop Navigation */}

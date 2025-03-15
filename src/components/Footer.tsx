@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
           <div className="md:col-span-4">
             <Link to="/" className="inline-block mb-4">
               <h3 className="text-2xl font-serif font-semibold text-love-600">
-                Heart<span className="text-gray-800">Match</span>
+                Kis<span className="text-gray-800">met</span>
               </h3>
             </Link>
             <p className="text-gray-600 mb-6">
@@ -166,7 +166,7 @@ const Footer: React.FC = () => {
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
               <Heart className="w-4 h-4 text-love-600" />
               <p className="text-sm text-gray-600">
-                © {currentYear} HeartMatch. All rights reserved.
+                © {currentYear} Kismet. All rights reserved.
               </p>
             </div>
             <div className="flex flex-col md:flex-row md:items-center space-y-2 md:space-y-0 md:space-x-6">
@@ -177,9 +177,9 @@ const Footer: React.FC = () => {
                 Terms of Service
               </Link>
               <div className="flex items-center space-x-4">
-                <a href="mailto:hello@heartmatch.com" className="flex items-center text-sm text-gray-600 hover:text-love-600 transition-colors">
+                <a href="mailto:hello@kismet.com" className="flex items-center text-sm text-gray-600 hover:text-love-600 transition-colors">
                   <Mail className="w-4 h-4 mr-1" />
-                  hello@heartmatch.com
+                  hello@kismet.com
                 </a>
                 <a href="tel:+11234567890" className="flex items-center text-sm text-gray-600 hover:text-love-600 transition-colors">
                   <Phone className="w-4 h-4 mr-1" />
