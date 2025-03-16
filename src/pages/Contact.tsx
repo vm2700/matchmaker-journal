@@ -53,8 +53,8 @@ const formSchema = z.object({
     message: "Tell us what you're looking for in a partner (minimum 30 characters).",
   }),
   preferences: z.array(z.string()).optional(),
-  termsAccepted: z.literal(true, {
-    errorMap: () => ({ message: "You must accept the terms and conditions." }),
+  termsAccepted: z.boolean().refine(val => val === true, {
+    message: "You must accept the terms and conditions."
   }),
 });
 
