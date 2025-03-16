@@ -32,7 +32,7 @@ const About: React.FC = () => {
               <h2 className="text-3xl font-bold mb-6">Our Story</h2>
               <p className="text-gray-600 mb-4">
                 Kismet was founded in 2015 with a simple mission: to help people find love that lasts. 
-                Our founder, Elizabeth Chen, had worked as a relationship therapist for over a decade and 
+                Our founder, Mala Mehta, had worked as a relationship therapist for over a decade and 
                 saw firsthand how many people struggled to find compatible partners despite their best efforts.
               </p>
               <p className="text-gray-600 mb-4">
@@ -122,11 +122,11 @@ const About: React.FC = () => {
               <div className="mb-4 relative">
                 <img 
                   src="https://images.unsplash.com/photo-1589571894960-20bbe2828d0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80" 
-                  alt="Elizabeth Chen" 
+                  alt="Mala Mehta" 
                   className="w-32 h-32 rounded-full mx-auto object-cover"
                 />
               </div>
-              <h3 className="text-xl font-semibold">Elizabeth Chen</h3>
+              <h3 className="text-xl font-semibold">Mala Mehta</h3>
               <p className="text-love-600 mb-2">Founder & CEO</p>
               <p className="text-gray-600 text-sm">
                 Former relationship therapist with 15+ years of experience helping couples build lasting connections.
